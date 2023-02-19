@@ -1,0 +1,5 @@
+mods/data/test/test.json
+mods/songs/test/Voices.ogg
+mods/songs/test/Inst.ogg
+mods/songs/test/voices.ogg
+mods/songs/test/inst.ogg
