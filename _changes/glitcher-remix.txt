@@ -1,6 +1,0 @@
-mods/data/glitcher-remix/glitcher-remix-funky.json
-mods/data/glitcher-remix/_meta.json
-mods/songs/glitcher-remix/Voices.ogg
-mods/songs/glitcher-remix/Inst.ogg
-mods/songs/glitcher-remix/voices.ogg
-mods/songs/glitcher-remix/inst.ogg
