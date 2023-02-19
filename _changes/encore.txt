@@ -1,0 +1,8 @@
+mods/data/encore/encore-easy.json
+mods/data/encore/encore-hard.json
+mods/data/encore/encore.json
+mods/data/encore/_meta.json
+mods/songs/encore/Voices.ogg
+mods/songs/encore/Inst.ogg
+mods/songs/encore/voices.ogg
+mods/songs/encore/inst.ogg

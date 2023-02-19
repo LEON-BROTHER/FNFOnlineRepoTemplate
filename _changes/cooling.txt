@@ -1,0 +1,7 @@
+mods/data/cooling/cooling-funky.json
+mods/data/cooling/cooling-reactive.json
+mods/data/cooling/_meta.json
+mods/songs/cooling/Voices.ogg
+mods/songs/cooling/Inst.ogg
+mods/songs/cooling/voices.ogg
+mods/songs/cooling/inst.ogg

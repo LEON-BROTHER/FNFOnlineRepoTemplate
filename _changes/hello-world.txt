@@ -1,0 +1,8 @@
+mods/data/hello-world/hello-world-easy.json
+mods/data/hello-world/hello-world-hard.json
+mods/data/hello-world/hello-world.json
+mods/data/hello-world/_meta.json
+mods/songs/hello-world/Voices.ogg
+mods/songs/hello-world/Inst.ogg
+mods/songs/hello-world/voices.ogg
+mods/songs/hello-world/inst.ogg

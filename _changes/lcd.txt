@@ -1,0 +1,6 @@
+mods/data/lcd/lcd-funky.json
+mods/data/lcd/_meta.json
+mods/songs/lcd/Voices.ogg
+mods/songs/lcd/Inst.ogg
+mods/songs/lcd/voices.ogg
+mods/songs/lcd/inst.ogg

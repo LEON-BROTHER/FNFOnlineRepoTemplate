@@ -1,0 +1,8 @@
+mods/data/glitcher/glitcher-easy.json
+mods/data/glitcher/glitcher-hard.json
+mods/data/glitcher/glitcher.json
+mods/data/glitcher/_meta.json
+mods/songs/glitcher/Voices.ogg
+mods/songs/glitcher/Inst.ogg
+mods/songs/glitcher/voices.ogg
+mods/songs/glitcher/inst.ogg

@@ -1,0 +1,6 @@
+mods/data/java/java-funky.json
+mods/data/java/_meta.json
+mods/songs/java/Voices.ogg
+mods/songs/java/Inst.ogg
+mods/songs/java/voices.ogg
+mods/songs/java/inst.ogg

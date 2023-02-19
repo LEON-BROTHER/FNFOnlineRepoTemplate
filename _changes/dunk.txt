@@ -1,0 +1,8 @@
+mods/data/dunk/dunk-easy.json
+mods/data/dunk/dunk-hard.json
+mods/data/dunk/dunk.json
+mods/data/dunk/_meta.json
+mods/songs/dunk/Voices.ogg
+mods/songs/dunk/Inst.ogg
+mods/songs/dunk/voices.ogg
+mods/songs/dunk/inst.ogg
