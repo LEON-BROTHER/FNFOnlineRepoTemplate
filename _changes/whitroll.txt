@@ -1,0 +1,7 @@
+mods/data/whitroll/whitroll-easy.json
+mods/data/whitroll/whitroll-hard.json
+mods/data/whitroll/whitroll.json
+mods/songs/whitroll/Voices.ogg
+mods/songs/whitroll/Inst.ogg
+mods/songs/whitroll/voices.ogg
+mods/songs/whitroll/inst.ogg

@@ -1,0 +1,7 @@
+mods/data/heartbass/heartbass-easy.json
+mods/data/heartbass/heartbass-hard.json
+mods/data/heartbass/heartbass.json
+mods/songs/heartbass/Voices.ogg
+mods/songs/heartbass/Inst.ogg
+mods/songs/heartbass/voices.ogg
+mods/songs/heartbass/inst.ogg
